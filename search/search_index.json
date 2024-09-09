@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Kotlin in FRC","text":""},{"location":"developing/migrating/","title":"Migrating your Java Code into Kotlin","text":""}]}
